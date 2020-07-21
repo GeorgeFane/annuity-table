@@ -1,1 +1,1 @@
-
+This code generates annuity tables and graphs the present value over time for annuities of varying discount rates. It forms the basis for a web app that can be found at: https://annuity-table.herokuapp.com/
